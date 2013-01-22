@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MMBladeScanner</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Micro-Manager</name>
+			<type>2</type>
+			<location>/home/devon/eclipse/C::/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager</location>
+		</link>
+	</linkedResources>
+</projectDescription>

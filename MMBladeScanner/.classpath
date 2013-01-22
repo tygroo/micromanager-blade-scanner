@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Micro-Manager"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/IJ"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/eclipse/plugins/org.eclipse.swt.win32.win32.x86_3.7.2.v3740f.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/eclipse/plugins/org.eclipse.swt_3.7.2.v3740f.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/clojure.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/clooj.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/commons-math-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/data.json.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/ij.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/MMAcqEngine.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/MMCoreJ.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/MMJ_.jar" sourcepath="C:/JAVADEV/workspace/trunk/MMCore"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/swing-layout-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/JAVADEV/workspace/Micro-Manager-1.4/plugins/Micro-Manager/swingx-0.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Micro-Manager-1.4/plugins/edu_mines_jtk.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/plugins/ij-plugins_toolkit-nodep_1.5.2_r1213.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/plugins/Stitching_.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/plugins/mpicbg_.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/plugins/Fiji_Plugins.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/plugins/Fiji_Developer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/plugins/Fiji_Package_Maker.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/plugins/ij-ImageIO_.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/plugins/IO_.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/edu_mines_jtk.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/fiji-compat.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/fiji-lib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/imglib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/imglib2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/imglib2-ij.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/imglib2-io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/imglib2-ui.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/imglib-ij.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/imglib-io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/jars/mpicbg.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bonheur/Desktop/Fiji.app/plugins/Javascript_.jar"/>
+	<classpathentry kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
